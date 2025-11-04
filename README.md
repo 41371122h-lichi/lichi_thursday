@@ -16,3 +16,5 @@
 · [HW3_待辦清單](https://github.com/41371122h-lichi/lichi_thursday/blob/main/HW3_%E5%BE%85%E8%BE%A6%E6%B8%85%E5%96%AE.ipynb)
 
 · [HW4_Naver news爬蟲分析](https://github.com/41371122h-lichi/lichi_thursday/blob/main/HW4_Naver_news%E7%88%AC%E8%9F%B2%E5%88%86%E6%9E%90.ipynb)
+
+· [HW5_跑咖推薦器](https://github.com/41371122h-lichi/lichi_thursday/blob/main/HW5_%E8%B7%91%E5%92%96%E6%8E%A8%E8%96%A6%E5%99%A8.ipynb)
