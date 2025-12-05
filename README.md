@@ -7,8 +7,6 @@
 
 系級：科技系二年級
 
-課程筆記區、作業連結區、專題連結區
-
 · [HW1_朋友支出分配表](https://github.com/41371122h-lichi/lichi_thursday/blob/main/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80HW1_%E5%87%BA%E9%81%8A%E6%94%AF%E5%87%BA%E9%80%9F%E7%AE%97%E8%88%87%E5%88%86%E6%94%A4_Gradio.ipynb)
 
 · [HW2_成績輸入及回饋](https://github.com/41371122h-lichi/lichi_thursday/blob/main/HW2_%E6%88%90%E7%B8%BE%E8%BC%B8%E5%85%A5%E5%8F%8A%E5%8F%8D%E9%A5%8B.ipynb)
@@ -20,3 +18,5 @@
 · [HW5_跑咖推薦器](https://github.com/41371122h-lichi/lichi_thursday/blob/main/HW5_%E8%B7%91%E5%92%96%E6%8E%A8%E8%96%A6%E5%99%A8.ipynb)
 
 · [HW6_課表查詢與提醒](https://github.com/41371122h-lichi/lichi_thursday/blob/main/HW6_%E8%AA%B2%E8%A1%A8%E6%9F%A5%E8%A9%A2%E8%88%87%E6%8F%90%E9%86%92.ipynb)
+
+· [我的期末專題作品！](https://github.com/41371122h-lichi/programming_group)
